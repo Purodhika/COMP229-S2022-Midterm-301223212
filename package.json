@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2022-midterm",
+  "name": "comp229-s2022-midterm",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -55,7 +55,7 @@
   "author": "Purodhika",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Purodhika/COMP229-S2022-Midterm-301223212"
   },
   "homepage": ""
 }
