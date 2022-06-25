@@ -1,3 +1,7 @@
+/*Name: Purodhika Sharma
+Student ID: 301223212
+Date: 25-06-22
+*/
 module.exports = {
   //local MongoDB deployment ->
   "URI": "mongodb+srv://Purodhika:Sharma@midterm229.dbgh60f.mongodb.net/midterm229?retryWrites=true&w=majority"
